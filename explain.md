@@ -24,7 +24,6 @@ On your local machine, run:
 このリポジトリのディレクトリで、Colabの出力に表示された**URLとAPIキーをそのまま引数に渡して**実行する。
 
 ```bash
-cd /workspaces/grillMe_colab2
 ./start-local-llm.sh https://xxxx-xx-xx.trycloudflare.com <APIキー>
 ```
 
